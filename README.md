@@ -75,8 +75,6 @@ while True:
 ### Reflection
 This assignment was a little bit of a challenge but with a little help and using my skills that I learned last year I was able to get it done
 
-
-
 ## CircuitPython_LCD
 
 ### Description & Code
